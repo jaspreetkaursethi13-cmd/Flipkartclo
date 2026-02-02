@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/shoe/d/b/x/6-biss-2031-blu-wht-40-bruton-blue-original-imahczyufwkmpeyq.jpeg?q=60",
+        "name" : "Men's Sports Shoes" ,
+        "off" : "Min.70% Off"
+    },
+    {
+        "id": 2,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/slipper-flip-flop/4/i/c/8-eagle-f-b-black-06-cloker-black-original-imahgphm8hznjvdg.jpeg?q=60",
+        "name" : "Men's Slippers & Flip-Flops" ,
+        "off" : "Min.70% Off"
+    },
+    {
+      "id": 3,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/shoe/i/6/o/-original-imahd2zfy7xuk8nn.jpeg?q=60",
+        "name" : "Men's Casual Shoes" ,
+        "off" : "Min.70% Off"  
+    },
+    {
+        "id": 4,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/shopsy-watch/i/4/n/1-arabic-vilante-men-women-original-imahgd8ztspm6f6h.jpeg?q=60",
+        "name" : "Writs Watches" ,
+        "off" : "Min.90% Off" 
+    }
+]

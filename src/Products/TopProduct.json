@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/projector/x/s/t/i9-pro-max-fhd-1080p-e03i31-10-e03i31-led-projector-egate-original-imahgxvbyhh7uejw.jpeg?q=60",
+        "name" : "Projector" ,
+        "price" : "From ₹5999"
+    },
+    {
+        "id": 2,
+        "image": "https://rukminim2.flixcart.com/image/240/240/kcf4lu80/speaker/mobile-tablet-speaker/h/u/f/srs-xb23-sony-original-imaftk66vjxp86h5.jpeg?q=60",
+        "name" : "Speaker" ,
+        "price" : "From ₹499"
+    },
+    {
+        "id": 3,
+        "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/monitor/p/w/w/-original-imahg9bfku8q2neg.jpeg?q=60",
+        "name" : "Monitors" ,
+        "price" : "From ₹6599"
+    },
+    {
+        "id": 4,
+        "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/monitor/s/k/q/-original-imahathge2dfftdg.jpeg?q=60",
+        "name" : "Monitor" ,
+        "price" : "From ₹8279"
+    },
+    {
+        "id": 5,
+        "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/point-shoot-camera/c/i/s/4k-video-compact-cameras-with-16x-digital-zoom-anti-shake-2-original-imahgpuhpgzamna2.jpeg?q=60",
+        "name" : "Top Mirrorless Camera" ,
+        "price" : "SHOP NOW!!"
+    },
+    {
+        "id": 6,
+        "image": "https://rukminim2.flixcart.com/image/240/240/xif0q/smartwatch/5/v/s/-original-imagxrhetgfuebnn.jpeg?q=60",
+        "name" : "Smartwatch" ,
+        "price" : "From ₹1399"
+    }
+    
+]

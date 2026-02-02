@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image":"https://rukminim2.flixcart.com/image/420/420/xif0q/jacket/j/o/0/xl-1-no-amt2-jkt-arrow-print-off-white-white-motrex-original-imahcay6teknugaq.jpeg?q=60" ,
+        "name":"Men's Jacket",
+        "off": "Special Offer"
+    },
+     {
+        "id": 2,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/cap/w/n/p/free-hand-sleeve-touch-gloves-winter-cap-flexcycap-original-imagv5decuqy8hsf.jpeg?q=60",
+        "name": "Men's Caps",
+        "off": "Min.50% Off"
+    },
+     {
+        "id":3 ,
+        "image":"https://rukminim2.flixcart.com/image/420/420/xif0q/jean/6/x/t/32-mbb0015-star4well-original-imahdgmsubfqqzvu.jpeg?q=60",
+        "name":"Men's Jeans" ,
+        "off": "Special Offer"
+    },
+     {
+        "id": 4,
+        "image": "https://rukminim2.flixcart.com/image/420/420/xif0q/t-shirt/m/v/r/xxl-progress-sti-original-imahhhpehmv4y4jq.jpeg?q=60",
+        "name": "Men's Sweatshirts",
+        "off": "Min.50% Off"
+    }
+]

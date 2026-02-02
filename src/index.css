@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+.abcd {
+    background: url("https://rukminim2.flixcart.com/fk-p-flap/3240/540/image/5b309e98775e22e4.jpg?q=60") no-repeat center / cover;
+}
+
+
+.abc{
+    z-index: 100;
+    height: 100vh;
+    background: url("https://rukminim2.flixcart.com/www/1060/1460/promos/26/09/2023/6c3c5fe2-c236-4fa2-8d97-595e1e01da01.jpg?q=60") no-repeat center / cover;
+
+}
